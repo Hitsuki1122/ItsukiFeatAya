@@ -1,79 +1,8 @@
-.container {
-    width: 960px;
-    margin: 0 auto;
-}
-
-header {
-    display: flex;
-    justify-content: space-between;
-    width: 960px;
-    height: 98px;
-}
-.header-left {
-    width: 188.5px;
-    height: 38.5px;
-    font-size: 35px;
-    margin: 32px 0 27.5px 26px;
-    font-family: "ヒラギノ角ゴ Pro W3",sans-serif;
-    color: #707070;
-}
-.header-right {
-    display: flex;
-    list-style: none;
-}
-.header-right p {
-    margin-left: 27.5px;
-    font-size: 20px;
-    margin-top: 41px;
-    font-family: "ヒラギノ角ゴ Pro W3",sans-serif;
-    color: #707070;
-}
-.header-right p:last-child {
-    margin-right: 43.5px;
-}
-main img {
-    width: 960px;
-    height: 546.25; 
-}
-.contact {
-    width: 138px;
-    height: 35px;
-    font-size: 35px;
-    font-family: "ヒラギノ角ゴ Pro W3",sans-serif;
-    color: #707070;
-    margin-left: 26px;
-}
-.contact-form {
-    margin-left: 23px;
-}
-.input-tagu {
-    width: 586px;
-    height: 48px;
-    margin: 30px 187px;
-    font-size: 20px;
-    font-family: "ヒラギノ角ゴ Pro W3",sans-serif;
-    color: #d0d0d0
-}
-.content {
-    height: 241.795px;
-    font-size: 20px;
-    font-family: "ヒラギノ角ゴ Pro W3",sans-serif;
-    color: #d0d0d0
-}
-.btn {
-    border-radius: 10px;
-    font-family: "ヒラギノ角ゴ Pro W3",sans-serif;
-    background: #707070;
-    border: 1px solid #d0d0d0;
-    font-size: 20px;
-    color: #ffffff;
-}
-footer {
-    margin-top: 80.5px;
-    font-family: "ヒラギノ角ゴ Pro W3",sans-serif;
-    color: #ffffff;
-    background: #111111;
-    width: 960px;
-    font-size: 20px;
-    padding: 18px 0 18px 18px;
-}
+/*
+Theme Name: ItsukiFeatAya
+Theme URI:
+Description: 発表・練習使用
+Version: 1.0
+Author: Aya
+Author URI:
+*/
